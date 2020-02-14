@@ -106,8 +106,9 @@ main
 	width: 55%;
 }
 
-content img
+content div
 {
+	background-image: url(people.jpg);
 	float: left;
 	width: 400px;
 	height: 500px;
