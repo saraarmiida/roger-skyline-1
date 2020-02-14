@@ -103,7 +103,13 @@ content
 main
 {
 	float: right;
-	width: 60%;
+	width: 55%;
+}
+
+content img
+{
+	float: left;
+	width: 40%;
 }
 
 .iconify
