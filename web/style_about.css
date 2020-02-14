@@ -103,16 +103,16 @@ content
 main
 {
 	float: right;
-	width: 55%;
+	width: 50%;
 }
 
-content div
+/* content div
 {
 	background-image: url(people.jpg);
 	float: left;
 	width: 400px;
 	height: 500px;
-}
+} */
 
 .iconify
 {
