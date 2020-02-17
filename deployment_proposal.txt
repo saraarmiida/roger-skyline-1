@@ -1,0 +1,3 @@
+For a functional solution for deployment automation of the whole virtual
+machine i propose the following:
+1. 
